@@ -57,6 +57,8 @@ This helps in representing text based on word importance.
 
 ## 📈 Results
 
+![Confusion Matrix](confusion_matrix.png)
+
 * Accuracy: **83.8%**
 
 Classification Report:
