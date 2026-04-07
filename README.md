@@ -8,7 +8,7 @@ The objective of this project is to classify text data (reviews) into positive o
 
 ## 📊 Dataset
 
-* Dataset used: **IMDB Movie Reviews Dataset**
+* Dataset used: **Amazon reviews Reviews Dataset**
 * Contains:
 
   * Text reviews
